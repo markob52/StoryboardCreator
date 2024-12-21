@@ -1,0 +1,9 @@
+[submodule "StoryboardCreator.Core"]
+	path = StoryboardCreator.Core
+	url = https://github.com/markob52/StoryboardCreator.Core
+[submodule "StoryboardCreator.App"]
+	path = StoryboardCreator.App
+	url = https://github.com/markob52/StoryboardCreator.App
+[submodule "StoryboardCreator.Test"]
+	path = StoryboardCreator.Test
+	url = https://github.com/markob52/StoryboardCreator.Test
